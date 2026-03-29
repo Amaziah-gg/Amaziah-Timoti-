@@ -30,19 +30,9 @@ The idea is to help young people organise their money, while progressing through
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
+
+Again, this app is still in development, but I hope this app resonates with you but also expresses my passion for gaming, tech and also creating GoodTech to help bring meaningful impact to youths.
 # Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+Check out my app desgin: https://ai.studio/apps/f9d9edfc-84b8-40d4-9b5c-43e8b5e700a7
 
-View your app in AI Studio: https://ai.studio/apps/f9d9edfc-84b8-40d4-9b5c-43e8b5e700a7
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
