@@ -13,6 +13,72 @@
 
 ---
 
+## 🧠 The Story Behind Teathered
+
+One thing about me I’ve always been someone who enjoys creating and fixing things.  
+Whether it’s hardware or software, I take pride in building something meaningful.  
+Because to me, it reflects the time and effort I’ve invested.
+
+Recently, I’ve been using AI tools to bring my ideas to life to actually visualise what I’ve been thinking.
+
+One of those ideas is **Teathered**.
+
+It started as a simple question:
+
+> *How do I create something that actually helps people?*
+
+---
+
+## 🎯 The Why
+
+Right now, our generation is more connected to technology than ever before.
+
+- Attention spans are getting shorter  
+- Financial literacy isn’t talked about enough  
+- And saving money often feels overwhelming or boring  
+
+I wanted to change that.
+
+---
+
+## 💡 The Idea
+
+Teathered is built around a simple concept:
+
+> Make financial growth feel like a game.
+
+Instead of traditional banking, users:
+- Level up their habits 📈  
+- Join clans for accountability 👥  
+- Earn rewards through saving 🪙  
+
+It’s designed to feel **engaging, not overwhelming**.
+
+---
+
+## 🛠️ How It's Being Built
+
+To bring this idea to life:
+
+- AI tools are used to design and visualise the experience  
+- Automation tools (like n8n) support backend systems  
+- A strong focus is placed on **security**, especially around authentication and user data  
+
+Because when it comes to finances — **trust matters**.
+
+---
+
+## 🌍 The Vision
+
+The goal is simple:
+
+> Help young people build better financial habits in a way that feels natural.
+
+Teathered connects money management with something familiar — **gaming**.
+
+Users stay motivated, supported, and accountable through shared progress, rewards, and community.
+
+---
 ## 🚀 Overview
 Teathered is a gamified financial platform designed to make saving money engaging, social, and rewarding.
 
