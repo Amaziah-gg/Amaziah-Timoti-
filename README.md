@@ -13,10 +13,7 @@ One of those ideas I’m working on is a banking app. It’s still in developmen
 
 
 WHY.
-<details>Right now, with how much exposure our generation has to technology, attention spans are getting shorter.. and financial literacy isn’t really being talked about enough.
-
-
-The idea is to help young people organise their money, while progressing through something that feels familiar. 
+<details>Right now, with how much exposure our generation has to technology, attention spans are getting shorter.. and financial literacy isn’t really being talked about enough. The idea is to help young people organise their money, while progressing through something that feels familiar. 
 
   
 Like a game. 
