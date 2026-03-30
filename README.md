@@ -1,5 +1,5 @@
 # 🔗 Teathered
-### A gamified financial experience that keeps you connected to better habits
+<details>### A gamified financial experience that keeps you connected to better habits
 
 <p align="center">
   <img src="YOUR_BANNER_IMAGE" width="100%" />
@@ -156,7 +156,6 @@ Teathered turns financial behavior into a game:
 - Frontend: AI Studio 
 - Backend: N8N 
 - Database:   
-- AI: (optional)  
 
 ---
 
@@ -166,7 +165,7 @@ Teathered turns financial behavior into a game:
 - [ ] Core saving system  
 - [ ] Gamification engine  
 - [ ] Social system  
-- [ ] AI assistant  
+- [ ] AI assistant</details>
 
 ---
 
