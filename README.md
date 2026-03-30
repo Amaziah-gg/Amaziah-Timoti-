@@ -126,8 +126,8 @@ Teathered turns financial behavior into a game:
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="SCREENSHOT_1" width="30%" />
-  <img src="SCREENSHOT_2" width="30%" />
+  <img src="screenshots/status.png" width="30%" />
+  <img src="screenshots/bazaar.png" width="30%" />
   <img src="SCREENSHOT_3" width="30%" />
 </p>
 
