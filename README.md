@@ -168,4 +168,20 @@ Teathered turns financial behavior into a game:
 - [ ] AI assistant</details>
 
 ---
+<h1>ACADEMY XI TRAINING💻🧩 </h1>
+
+<body>
+<details>HARDWARE:
+
+    - LAPTOP
+    - Ethernet Cable (RJ45)
+ 
+Demonstrated in the link below, I have done a runthrough video of me disassemblying a laptop and identifing the parts inside.
+<p>Laptop Runthrough</p>
+
+<p>The second video is of me terminating an ethernet cable. From sratch to a live working, tested ethernet cable.</p></details>
+
+
+
+  
 
