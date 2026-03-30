@@ -1,4 +1,4 @@
-# Teathered 🔗
+# Vibecoding | App buidlding 🔗🧠 
 <details>### A gamified financial experience that keeps you connected to better habits
 
 <p align="center">
@@ -168,11 +168,10 @@ Teathered turns financial behavior into a game:
 - [ ] AI assistant</details>
 
 ---
-<h1>Academy XI Training 💻🧩 </h1>
+<h1>Hardware | Troubleshooting💻🧩 </h1>
 
 <body>
-<details>HARDWARE:
-
+<details>
     - LAPTOP
     - Ethernet Cable (RJ45)
  
