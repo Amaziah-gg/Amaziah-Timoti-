@@ -1,4 +1,4 @@
-# Vibecoding | App buidlding 🔗🧠 
+# Vibecoding | App buidling 🔗🧠 
 <details>### A gamified financial experience that keeps you connected to better habits
 
 <p align="center">
@@ -172,6 +172,7 @@ Teathered turns financial behavior into a game:
 
 <body>
 <details>
+  
     - LAPTOP
     - Ethernet Cable (RJ45)
  
