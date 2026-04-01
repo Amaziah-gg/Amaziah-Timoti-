@@ -13,7 +13,39 @@ Because where I come from, it takes a village to raise a child.
 
 And now, I’m at a point where I want to give back to that village in a space where I know the impact can be big.
 
-And for me, that space is Technology.</details>
+And for me, that space is Technology.
+
+<details>
+  <summary>Experiences 🛠️⚙️</summary>
+  <p>
+All the different jobs I’ve had — they’ve really shaped who I am today.
+Each one built something in me.
+    
+Whether it was work ethic, resilience, or just learning how to figure things out.
+I’ve seen a lot… especially being on the other side of tech — the labour side.
+And now, I’m at a point where I want to go deeper.
+I want to understand what’s happening on the back-end.
+What pathways are actually out there.
+And how I can be part of building, not just using.
+
+Because for me, it’s about growth —
+taking everything I’ve learned so far… and stepping into something more.
+  </p>
+  
+  <details>
+    <summary>Apprentice Electrician</summary>
+    <p>2 years experience as an electrician</p>
+  </details>
+
+  <details>
+    <summary>Rainbow's End</summary>
+    <p>
+      Worked at Rainbows End for 5 years. 3 of those being a ride operator and 2 years being a Team Leader
+    </p>
+  
+</details> </details>
+
+---
 
 
 # Vibecoding | App buidling 🔗🧠 
