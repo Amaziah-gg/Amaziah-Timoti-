@@ -1,4 +1,4 @@
-<h1>Who Am I? </h1>
+<h1>🌊Talofa, My name is Amaziah🐚</h1>
 <details><summary>Check me out 🌱</summary>
 
   My name is Amaziah Timoti.
@@ -45,8 +45,9 @@ taking everything I’ve learned so far… and stepping into something more.
       Worked at Rainbows End for 5 years. 3 of those being a ride operator and 2 years being a Team Leader
     </p>
  
+ </details></details>
 
-</details></details>
+
 
 ---
 
