@@ -35,15 +35,18 @@ taking everything I’ve learned so far… and stepping into something more.
   <details>
     <summary>Apprentice Electrician</summary>
     <p>2 years experience as an electrician</p>
+ 
   </details>
 
   <details>
+   
     <summary>Rainbow's End</summary>
     <p>
       Worked at Rainbows End for 5 years. 3 of those being a ride operator and 2 years being a Team Leader
     </p>
-  
-</details> </details>
+ 
+
+</details></details>
 
 ---
 
