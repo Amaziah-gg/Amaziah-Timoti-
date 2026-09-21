@@ -16,14 +16,14 @@
 
 <h2>👨‍💻 AI Projects:</h2>
 
-<details><summary>- <b>AI solution (Small charity -n8n)</b></summary>
- 
-  - [Planning/BrainStorm Phase](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [AI Business Case](https://github.com/joshmadakor1/Algorithms-Practice)</details>
+<details><summary>- <b>AI solution (Small charity - <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" height="18" />)</b></summary>
 
-  <details><summary>- <b>AI solution (Talent International -Codex) </b></b></summary>
- 
- - [AI Business Case](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</details>
+- [Planning/BrainStorm Phase](https://github.com/joshmadakor1/Algorithms-Practice)
+- [AI Business Case](https://github.com/joshmadakor1/Algorithms-Practice)</details>
+
+<details><summary>- <b>AI solution (Talent International - <img src="https://img.shields.io/badge/-Codex-412991?style=flat&logo=openai&logoColor=white" alt="Codex" height="18" />)</b></summary>
+
+- [AI Business Case](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</details>
   
   <details><summary>- <b>Vibecoded app (Passion Project)</b></b></summary>
  
