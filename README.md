@@ -45,6 +45,17 @@ Developed and refined core IT skills, beginning with hardware troubleshooting, m
 
 
 </details>
+<details><summary>APPRENTICE ELECTRICIAN	OCT 2023 – SEP 2025 (OMEXOM)</summary> </br>
+
+Starting July 2022, completing through NZMA an electrical engineering pre trade which covered year 1-2 papers.
+
+- Hands-on experience working on switchboards, transformers, isolators and basic installations
+- Developed troubleshooting and initiative skills. Used to test, identify any issues with cables and structural support and create next plan of action.
+- Confidence in Communication. Planning with other trades to prevent clashes and safety issues on site.
+- Pride in my work. Doing it right the first time not only for safety but for clients to help better business ventures.
+- Having the grit to work 10-12 hour days, 6 days a week.
+
+</details>
 
 </details>
 
