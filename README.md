@@ -94,7 +94,7 @@ Operated and maintained rides through daily safety checks, delivered clear custo
   
  <details><summary><b>Vibecoded app 🔗🧠 (Passion Project - <img src="https://img.shields.io/badge/-Google_Labs-4285F4?style=flat&logo=google&logoColor=white" alt="Google Labs" height="18" />)</b></summary>
 
-- [App walkthrough](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</details>
+- [App walkthrough](https://youtu.be/Yyo1FmSk92M)</details>
  
 
  
