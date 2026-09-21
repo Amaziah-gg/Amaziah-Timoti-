@@ -101,11 +101,10 @@ Operated and maintained rides through daily safety checks, delivered clear custo
 
  
 
-<h2>🔌SOHO & Hardware</h2>
+<h2>🔌Hardware</h2>
 <details><summary>Walkthroughs 🗺️</summary>
  
-- [Laptop disassemble and assemble](https://youtu.be/FpwU0H8Sa78)
-- [SOHO Configuration](https://www.youtube.com/watch?v=uHy3oM7NnoU)</details>
+- [Laptop disassemble and assemble](https://youtu.be/FpwU0H8Sa78)</details>
 
 <h2> 🤳 Connect with me:</h2>
 
