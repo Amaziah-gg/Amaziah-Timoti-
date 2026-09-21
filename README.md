@@ -25,10 +25,12 @@
  
  - [AI Business Case](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</details>
   
+  <details><summary>- <b>Vibecoded app (Passion Project)</b></b></summary>
+ 
+ - [App walkthrough](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</details>
+ 
 
  
-- <b>Vibecoded app (Passion Project) </b>
-  - [App walkthrough](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
  
 
