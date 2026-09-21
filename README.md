@@ -57,6 +57,18 @@ Starting July 2022, completing through NZMA an electrical engineering pre trade 
 
 </details>
 
+<details><summary>TEAM LEADER	JUN 2021 – FEB 2024 (Rainbow's End)</summary> </br>
+
+Oversee the ride operator’s department. Held daily morning meeting, covered customer complaints, did daily rosters for shifts and ride allocation. Running the department day to day.
+
+-	Daily briefing to discuss the significance of safety to operator team. Reminders of daily checks and procedures before opening
+-	Effectively communicating with customer complaints and quick thinking to de-escalate the situation. 
+- Understanding employees’ health. planning ride rosters to match staff with what they trained on, ability to work and allocate them on the rides.
+- Built resilience. Knowing when short staffed for days and under the pump to open. Understood how to manage in those situations. 
+
+
+</details>
+
 </details>
 
 
