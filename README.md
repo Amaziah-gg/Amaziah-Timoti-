@@ -11,16 +11,16 @@
   I’m an aspiring Samoan with a strong curiosity and passion for technology. I've been hands-on with tech from an early age, from gaming to electrical work, always drawn to building, fixing, and understanding how things work. 
   </p></details>
 
- <details><summary>Experiences 🛠️</summary>
+<details><summary>Experiences 🛠️</summary>
 <br/>
 
 <details><summary>AI ENTERPRISE INTERNSHIP	MAY – SEP 2026 (RiseByTalent)</summary> </br>
 
 Identified and created several AI solutions for two different stakeholders.
 
-- Rise by Talent - Built an n8n workflow solution to solve problems within their marketing outputs.
+- Rise By Talent - Built an n8n workflow solution to solve problems within their marketing outputs.
 
-- Talent International- formed a Canva workflow for visual and then created in Codex a skill using the ICM method. Together with a presentation shared back to Talent to show their manual workflow, their problem and why the solution needed to be implemented.
+- Talent International - formed a Canva workflow for visual and then created in Codex a skill using the ICM method. Together with a presentation shared back to Talent to show their manual workflow, their problem and why the solution needed to be implemented.
 
 - Identified by sitting with clients and asking questions to figure out what was repetitive in their process, why is it done like that, what could change if this was automated and many other questions to really get to understand their manual process
 
@@ -30,9 +30,26 @@ Identified and created several AI solutions for two different stakeholders.
 
 </details>
 
+<details><summary>IT INTERNSHIP	FEB – APRIL 2026 (RiseByTalent)</summary> </br>
+
+Developed and refined core IT skills, beginning with hardware troubleshooting, mobile device management, and small office setups
+
+- Gained Certification in Foundational IT and Cybersecurity 
+- Disassembled and reassembled laptops, identifying and replacing components to restore full working condition
+- Terminated and tested Cat6 cabling with RJ-45 connectors to create functional Ethernet cables
+- Set up docking stations and managed cable organisation within office environments
+- Diagnosed and resolved printer issues, including new installations
+- Joined the sourcing team at Talent Auckland, supporting candidate sourcing initiatives
+- Utilised CRM system to record and manage candidate information throughout the contact process 
+- Developed corporate soft skills and adapted effectively to a professional team environment
+
+
 </details>
- 
-  </p></details>
+
+</details>
+
+
+
 
 
 <h2>🤖 AI Projects:</h2>
