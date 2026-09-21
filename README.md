@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 AI Projects:</h2>
 
-- <b>AI solution for small charity</b>
+- <b>AI solution (Small charity -n8n)</b>
   - [Planning/BrainStorm Phase](https://github.com/joshmadakor1/Algorithms-Practice)
   - [AI Business Case](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>AI solution (Talent International -Codex) </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
  
