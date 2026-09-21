@@ -42,9 +42,10 @@
  
 
 <h2>🔌SOHO & Hardware</h2>
-
+<details><summary>Walkthroughs🗺️</summary>
+ 
 - [Laptop disassemble and assemble](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [SOHO Configuration](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [SOHO Configuration](https://www.youtube.com/watch?v=uHy3oM7NnoU)</details>
 
 <h2> 🤳 Connect with me:</h2>
 
