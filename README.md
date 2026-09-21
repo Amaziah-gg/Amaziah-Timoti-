@@ -1,4 +1,4 @@
-<h1>Talofa, I'm Amaziah! <br/>
+<h1>🌊Talofa, I'm Amaziah! <br/>
 
 <h2>👨‍💻 Who am I:</h2>
 
