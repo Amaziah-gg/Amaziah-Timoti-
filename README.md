@@ -10,11 +10,10 @@
   
   I’m an aspiring Samoan with a strong curiosity and passion for technology. I've been hands-on with tech from an early age, from gaming to electrical work, always drawn to building, fixing, and understanding how things work. 
   
-- 🔭 I’m currently working on a solution designed to support my non-verbal brother in communicating with me through visual, drawing-based methods.
+- 🔭 I’m currently working on a solution that helps my non-verbal brother communicate more effectively with me through drawings.
 - 🌱 I’m currently learning Python to better my understanding on Machine-learning
 - 💬 Ask me about: anything Rugby League or gaming :)
-- ⚡ Fun fact: 
--->
+- ⚡ Fun fact: I have an identical twin brother
   </p></details>
 
 <details><summary>Experiences 🛠️</summary>
