@@ -9,6 +9,12 @@
   Over the past several months, I’ve engaged with AI tools. Sharpening my enterprise mindset to create value for business outcomes using AI. I’ve used LLM’s Codex, Claude Code and workflow automation n8n to build solutions while creating case studies to present back to stakeholders.
   
   I’m an aspiring Samoan with a strong curiosity and passion for technology. I've been hands-on with tech from an early age, from gaming to electrical work, always drawn to building, fixing, and understanding how things work. 
+  
+- 🔭 I’m currently working on a solution designed to support my non-verbal brother in communicating with me through visual, drawing-based methods.
+- 🌱 I’m currently learning Python to better my understanding on Machine-learning
+- 💬 Ask me about: anything Rugby League or gaming :)
+- ⚡ Fun fact: 
+-->
   </p></details>
 
 <details><summary>Experiences 🛠️</summary>
@@ -112,17 +118,4 @@ Operated and maintained rides through daily safety checks, delivered clear custo
 
 [linkedin]: https://www.linkedin.com/in/amaziah-timoti/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
