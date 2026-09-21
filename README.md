@@ -2,6 +2,24 @@
 
 <h2>👨‍💻 Who am I:</h2>
 
+ <details><summary>Check me out 🌱</summary>
+
+ <p> 
+  My name is Amaziah Timoti.
+  I’m an aspiring Pasifika, finding my way into the tech space.
+   
+  I come from strong cultural roots and I carry that with me in everything I do.
+  At the same time, I’ve got that curiosity.. wanting to learn, build, and understand where I fit in this space.
+
+  For me, it’s not just about getting into tech. It’s about how I can use it to make a real impact especially for my people.
+
+  Because where I come from, it takes a village to raise a child.
+
+  And now, I’m at a point where I want to give back to that village in a space where I know the impact can be big.
+
+  And for me, that space is Technology.
+  </p></details>
+
 
 
 
