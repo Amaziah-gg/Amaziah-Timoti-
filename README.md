@@ -14,7 +14,7 @@
  <details><summary>Experiences 🛠️</summary>
 <br/>
 
-<details><summary>AI ENTERPRISE INTERNSHIP	MAY – SEP 2026 (RiseByTalent)</summary>
+<details><summary>AI ENTERPRISE INTERNSHIP	MAY – SEP 2026 (RiseByTalent)</summary> </br>
 
 Identified and created several AI solutions for two different stakeholders.
 
