@@ -11,7 +11,7 @@
   I’m an aspiring Samoan with a strong curiosity and passion for technology. I've been hands-on with tech from an early age, from gaming to electrical work, always drawn to building, fixing, and understanding how things work. 
   </p></details>
 
- <details><summary>Experiences🛠️</summary>
+ <details><summary>Experiences 🛠️</summary>
 
  <p> 
  
