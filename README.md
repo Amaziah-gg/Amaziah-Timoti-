@@ -25,11 +25,17 @@
 
 <h2>👨‍💻 AI Projects:</h2>
 
-- <b>AI solution (Small charity -n8n)</b>
+<details><summary>- <b>AI solution (Small charity -n8n)</b></summary>
+ 
   - [Planning/BrainStorm Phase](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [AI Business Case](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>AI solution (Talent International -Codex) </b>
-  - [AI Business Case](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [AI Business Case](https://github.com/joshmadakor1/Algorithms-Practice)</details>
+
+  <details><summary>- <b>AI solution (Talent International -Codex) </b></b></summary>
+ 
+ - [AI Business Case](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</details>
+  
+
+ 
 - <b>Vibecoded app (Passion Project) </b>
   - [App walkthrough](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
