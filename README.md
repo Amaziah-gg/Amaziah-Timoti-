@@ -69,6 +69,12 @@ Oversee the ride operator’s department. Held daily morning meeting, covered cu
 
 </details>
 
+<details><summary>RIDE OPERATOR	JULY 2018 – JUN 2021 (Rainbow’s End)</summary> </br>
+
+Operated and maintained rides through daily safety checks, delivered clear customer service via ride announcements.
+
+</details>
+
 </details>
 
 
