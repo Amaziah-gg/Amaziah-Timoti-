@@ -13,11 +13,27 @@
 
  <details><summary>Experiences 🛠️</summary>
 
+
+<details><summary>AI ENTERPRISE INTERNSHIP	MAY – SEP 2026 (RiseByTalent)</summary>  
+
+ 
+Identified and created several AI solutions for two different stakeholders.
+
+- Rise by Talent - Built an n8n workflow solution to solve problems within their marketing outputs.
+
+- Talent International- formed a Canva workflow for visual and then created in Codex a skill using the ICM method. Together with a presentation shared back to Talent to show their manual workflow, their problem and why the solution needed to be implemented.
+
+- Identified by sitting with clients and asking questions to figure out what was repetitive in their process, why is it done like that, what could change if this was automated and many other questions to really get to understand their manual process
+
+- Created a tailored solution from gathered insights and built a supporting presentation addressing key pillars including customer journey, benefits and ROI, risk and mitigations, operational and strategic capabilities
+
+- Presented a business case outlining commercial value and outcomes to KPMG, Deloitte, AIA, LIC, Rise, and Talent International
+
+</details>
+
  <p> 
  
-  Over the past several months, I’ve engaged with AI tools. Sharpening my enterprise mindset to create value for business outcomes using AI. I’ve used LLM’s Codex, Claude Code and workflow automation n8n to build solutions while creating case studies to present back to stakeholders.
-  
-  I’m an aspiring Samoan with a strong curiosity and passion for technology. I've been hands-on with tech from an early age, from gaming to electrical work, always drawn to building, fixing, and understanding how things work. 
+ 
   </p></details>
 
 
