@@ -77,7 +77,7 @@ Oversee the ride operator’s department. Held daily morning meeting, covered cu
 
 <h2>🤖 AI Projects:</h2>
 
-<details><summary>- <b>AI solution (Small charity - <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" height="18" />)</b></summary>
+<details><summary>- <b>AI solution 💡 (Small charity - <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" height="18" />)</b></summary>
 
 - [Planning/BrainStorm Phase](https://github.com/joshmadakor1/Algorithms-Practice)
 - [AI Business Case](https://github.com/joshmadakor1/Algorithms-Practice)</details>
