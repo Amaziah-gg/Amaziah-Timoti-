@@ -11,7 +11,14 @@
   I’m an aspiring Samoan with a strong curiosity and passion for technology. I've been hands-on with tech from an early age, from gaming to electrical work, always drawn to building, fixing, and understanding how things work. 
   </p></details>
 
+ <details><summary>Experiences🛠️</summary>
 
+ <p> 
+ 
+  Over the past several months, I’ve engaged with AI tools. Sharpening my enterprise mindset to create value for business outcomes using AI. I’ve used LLM’s Codex, Claude Code and workflow automation n8n to build solutions while creating case studies to present back to stakeholders.
+  
+  I’m an aspiring Samoan with a strong curiosity and passion for technology. I've been hands-on with tech from an early age, from gaming to electrical work, always drawn to building, fixing, and understanding how things work. 
+  </p></details>
 
 
 <h2>🤖 AI Projects:</h2>
