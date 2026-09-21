@@ -5,19 +5,10 @@
  <details><summary>Check me out 🌱</summary>
 
  <p> 
-  My name is Amaziah Timoti.
-  I’m an aspiring Pasifika, finding my way into the tech space.
-   
-  I come from strong cultural roots and I carry that with me in everything I do.
-  At the same time, I’ve got that curiosity.. wanting to learn, build, and understand where I fit in this space.
-
-  For me, it’s not just about getting into tech. It’s about how I can use it to make a real impact especially for my people.
-
-  Because where I come from, it takes a village to raise a child.
-
-  And now, I’m at a point where I want to give back to that village in a space where I know the impact can be big.
-
-  And for me, that space is Technology.
+ 
+  Over the past several months, I’ve engaged with AI tools. Sharpening my enterprise mindset to create value for business outcomes using AI. I’ve used LLM’s Codex, Claude Code and workflow automation n8n to build solutions while creating case studies to present back to stakeholders.
+  
+  I’m an aspiring Samoan with a strong curiosity and passion for technology. I've been hands-on with tech from an early age, from gaming to electrical work, always drawn to building, fixing, and understanding how things work. 
   </p></details>
 
 
