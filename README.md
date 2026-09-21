@@ -6,7 +6,7 @@
   - [Planning/BrainStorm Phase](https://github.com/joshmadakor1/Algorithms-Practice)
   - [AI Business Case](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>AI solution (Talent International -Codex) </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [AI Business Case](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
  
 
