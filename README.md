@@ -85,7 +85,7 @@ Operated and maintained rides through daily safety checks, delivered clear custo
 
 <details><summary>- <b>AI solution 💡 (Small charity - <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" height="18" />)</b></summary>
 
-- [Planning/BrainStorm Phase](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Planning/BrainStorm Phase](https://youtu.be/ZigypgG4H9M)
 - [AI Business Case](https://github.com/joshmadakor1/Algorithms-Practice)</details>
 
 <details><summary>- <b>AI solution 🧑‍💻✏️(Talent International - <img src="https://img.shields.io/badge/-Codex-412991?style=flat&logo=openai&logoColor=white" alt="Codex" height="18" />)</b></summary>
