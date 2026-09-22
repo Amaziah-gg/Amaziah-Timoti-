@@ -95,7 +95,7 @@ Operated and maintained rides through daily safety checks, delivered clear custo
 
 <details><summary><b>AI solution 🧑‍💻✏️(Talent International - <img src="https://img.shields.io/badge/-Codex-412991?style=flat&logo=openai&logoColor=white" alt="Codex" height="18" />)</b></summary>
 
-- [AI Business Case](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</details>
+- [AI Business Case](https://youtu.be/7eeAsCjXpZU)</details>
   
  <details><summary><b>Vibecoded app 🔗🧠 (Passion Project - <img src="https://img.shields.io/badge/-Google_Labs-4285F4?style=flat&logo=google&logoColor=white" alt="Google Labs" height="18" />)</b></summary>
 
