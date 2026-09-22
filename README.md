@@ -114,7 +114,9 @@ Operated and maintained rides through daily safety checks, delivered clear custo
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AmaziahTimoti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Amaziah | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 [linkedin]: https://www.linkedin.com/in/amaziah-timoti/
+[email]: mailto:amaziahtimoti@gmail.com
 
 
